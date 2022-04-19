@@ -1,11 +1,7 @@
 {
     "name": "admin/php-project",
     "description": "php da tuzilgan site tutorial",
-    "autoload": {
-        "psr-4": {
-            "Admin\\PhpProject\\": "src/"
-        }
-    },
+    
     "authors": [
         {
             "name": "SHAXZOD",
@@ -13,8 +9,6 @@
         }
     ],
     "require": {
-        "php": ">=7.0.0",
-        "ext-pdo": "*",
-        "ext-pdo_mysql": "*"
+        "php": ">=7.0.0"
     }
 }
