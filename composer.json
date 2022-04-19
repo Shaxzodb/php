@@ -7,8 +7,5 @@
             "name": "SHAXZOD",
             "email": "shaxzodbmaster@gmail.com"
         }
-    ],
-    "require": {
-        "php": ">=7.0.0"
-    }
+    ]
 }
